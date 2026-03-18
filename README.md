@@ -43,7 +43,3 @@ SkyCast is a beautifully designed, modern Python web application that provides l
 
 ## 📸 Screenshots
 <img width="1867" height="957" alt="Screenshot 2026-03-18 194007" src="https://github.com/user-attachments/assets/b8265cca-69d5-4c84-87f5-98719179cab8" />
-
-
-## 📄 License
-This project is open-source and available under the MIT License.
