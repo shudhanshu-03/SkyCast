@@ -1,8 +1,8 @@
-# SkyCast ☁️
+# SkyCast 
 
 SkyCast is a beautifully designed, modern Python web application that provides live, comprehensive weather data and forecasts using the OpenWeatherMap API.
 
-## ✨ Features
+## Features
 - **Smart Location Search**: Search by city name, zip code, or instantly use your browser's Geolocation.
 - **Dynamic Backgrounds**: The entire UI theme shifts fluidly based on the current weather condition (Day, Night, Rain, Snow, etc.).
 - **Interactive Live Radar**: An embedded Leaflet.js map automatically centers on your city and overlays live precipitation data.
@@ -10,12 +10,12 @@ SkyCast is a beautifully designed, modern Python web application that provides l
 - **Extended Metrics**: View "Feels Like" temperatures, localized Sunrise/Sunset times, Wind Speed, and Humidity.
 - **Favorite Locations**: Star your most-searched cities to save them to your browser's LocalStorage for 1-click access.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Backend**: Python, Flask, Requests
 - **Frontend**: HTML5, Tailwind CSS (via CDN), JavaScript (Vanilla)
 - **APIs & Libraries**: OpenWeatherMap API, Leaflet.js, FontAwesome
 
-## 🚀 Quick Setup
+##  Quick Setup
 
 1. **Clone the repository**
    ```bash
@@ -42,4 +42,4 @@ SkyCast is a beautifully designed, modern Python web application that provides l
    Open `http://localhost:5000` in your browser!
 
 ## 📸 Screenshots
-<img width="1867" height="957" alt="Screenshot 2026-03-18 194007" src="https://github.com/user-attachments/assets/b8265cca-69d5-4c84-87f5-98719179cab8" />
+*(Add screenshots of your amazing UI here!)*
