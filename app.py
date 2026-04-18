@@ -75,6 +75,8 @@ def index():
                                 "temperature": round(item["main"]["temp"]),
                                 "icon": item["weather"][0]["icon"]
                             })
+            elif response.status_code == 401:
+                weather_data = {"error": "API Key is missing or invalid in this environment! Please configure the API_KEY environment variable."}
             else:
                 weather_data = {"error": "Location not found!"}
         except requests.exceptions.RequestException:
